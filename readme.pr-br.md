@@ -19,7 +19,7 @@ $ yarn start
 Com npm:
 ``` bash
 $ npm install
-$ yarn start
+$ npm start
 ```
 
 # Compilando

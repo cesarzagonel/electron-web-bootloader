@@ -19,7 +19,7 @@ $ yarn start
 With npm:
 ``` bash
 $ npm install
-$ yarn start
+$ npm start
 ```
 
 # Building
