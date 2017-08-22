@@ -1,0 +1,14 @@
+{
+  "productName": "bootloader",
+  "license": "MIT",
+  "main": "main.js",
+  "entrypoint": "https://cesarzagonel.github.io/vue-webpack-material-template/",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager ./ bootloader --platform=darwin,linux,win32 --arch=x64 --out=builds"
+  },
+  "devDependencies": {
+    "electron": "^1.7.5",
+    "electron-packager": "^8.7.2"
+  }
+}
